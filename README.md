@@ -1,1 +1,1 @@
-Few-shot에 관하여.md 파일을 loading and read 해
+Few-shot.md 파일에 few-shot 설명이있음.
